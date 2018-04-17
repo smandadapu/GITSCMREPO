@@ -7,7 +7,7 @@ public class User {
 	private String gender;
 	private String country;
 	private String aboutYou;
-	private String[] community;
+	private String[] feature1;
 	private Boolean mailingList;
 	
 	public String getName() {
